@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "title": "JavaScript Asoslari",
+        "author": "John Doe",
+        "year": 2021
+    },
+    {
+        "id": 2,
+        "title": "Node.js Qo‘llanmasi",
+        "author": "Jane Smith",
+        "year": 2023
+    }
+]
